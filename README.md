@@ -6,6 +6,8 @@
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+![Aurelia Bridal — site preview](screenshot.png)
+
 ## About
 
 A single-page marketing and booking site for **Aurelia Bridal Photography** — bespoke bridal sessions, engagement shoots, and full-day wedding coverage in soft, romantic light. The whole site is one `index.html` (markup, inline `<style>`, inline `<script>`) with no build step or framework. Bookings are submitted to a [FormSubmit](https://formsubmit.co/) endpoint that emails the studio when a couple requests a session.
