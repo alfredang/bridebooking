@@ -6,7 +6,7 @@
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-![Aurelia Bridal — site preview](screenshot.png)
+![Aurelia Bridal — site preview](asset/images/screenshot.png)
 
 ## About
 
@@ -22,6 +22,8 @@ A single-page marketing and booking site for **Aurelia Bridal Photography** — 
 ├── .gitignore
 ├── CLAUDE.md
 ├── README.md
+├── asset/
+│   └── images/
 └── index.html
 ```
 

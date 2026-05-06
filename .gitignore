@@ -1,2 +1,6 @@
 .claude/
 .mcp.json
+.playwright-mcp/
+.tree/
+.trees/
+skills-lock.json
